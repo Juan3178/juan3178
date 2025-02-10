@@ -4,23 +4,23 @@
   <a href="https://www.youtube.com/@Juan_3178" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Juan3178"  /></a>
 <a href="https://www.tiktok.com/@juan.3178" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@Juan.3178" /></a>
 <a href="https://linktr.ee/juan3178" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan3178"/></a>
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://facebook.com/100064055564456" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Juan3178"  /></a>
+<a href = "mailto:juan3178316@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Juan3178"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+<!--🎓 INGENIERO EN INFORMÁTICA-->
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+<!--💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️-->
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **juan3178@gmail.com**
 <!--Intro end-->
   </p>
 <br>
