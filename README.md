@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-<!--🎓 INGENIERO EN INFORMÁTICA-->
+🧑🏾‍💻 APRENDIENDO A PROGRAMAR
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,js,json,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=json,js,html,css,GitHub,vscode,py&perline=12" />
   </a>
 </p>
 <br>
