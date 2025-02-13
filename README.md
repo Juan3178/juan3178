@@ -1,3 +1,5 @@
+<div style="position:absolute;z-index:-1;width:100%;"><img src="https://github.com/Juan3178/Juan3178/blob/main/assets%2Fbg1_readme.svg"/></div>
+<div style="z-index:1;">
 <h1 align="center">Hola 👋  soy Juan3178 ✨ </h1>
 
 <p align="left">
@@ -117,4 +119,4 @@
 <!--- trophy (end) -->
 </p>
 <!--- stats (end) -->
-<img src="https://github.com/Juan3178/Juan3178/blob/main/assets%2Fbg1_readme.svg"/>
+</div>
