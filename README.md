@@ -25,7 +25,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️-->
 
-📫 Contacto: **juan3178@gmail.com**
+📫 Contacto: **juan3178316@gmail.com**
 <!--Intro end-->
 </p>
 <br>
